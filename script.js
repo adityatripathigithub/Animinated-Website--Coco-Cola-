@@ -293,7 +293,7 @@ gsap.to(".page5 #box1", {
     scroller: "#main",
     start: "top 0%",
     end: "top -250%",
-    // markers: true,
+    markers: true,
     pin: true,
     scrub: true
   }
